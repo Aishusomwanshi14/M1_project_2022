@@ -1,0 +1,4 @@
+Introduction Of Snake Game:
+
+This Snake Game Mini Project in C is a simple console application with no graphics. You can play the popular "Snake Game" in this project exactly like you would anywhere else. To move the snake, use the up, down, right, and left arrows.
+Food is installed at different co-ordinates on the screen for the snake to swallow. The snake's length and score both will grow by one element each time it eats the food. Snake Game in C has a complete source code that is error-free. The gcc compiler is used to compile it in Code::blocks. Because the code is approximately 536 lines long, I haven't included it here. The source code as well as the application file can be downloaded straight from the link below
